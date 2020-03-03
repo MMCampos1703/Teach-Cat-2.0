@@ -1,0 +1,60 @@
+<html>
+	<head>
+		<title>Inicio</title>
+		<meta charset="utf-8">
+				<link rel="stylesheet" type="text/css" href="estilo.css">
+	</head>
+	<body bgcolor="#1084A5">
+		<br>
+		<br>
+		<br>
+		<br><p class="kat-font"><font size="22" type"Arial" color="White" >&nbsp &nbsp Como posso te ajudar?
+		<br> &nbsp&nbsp&nbsp&nbsp
+		<br>
+		<br>
+		<br>
+	
+
+
+
+		&nbsp &nbsp Clique em mim para abrir as aulas</font></p>
+
+
+		
+
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasjor\easteregg.png" height="100%" width="100%"> 
+					<source src="aulas\aulasjor\easteregg.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+<script type="text/javascript">
+	var modal = document.getElementById('myModal');
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById('myImg');
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+img.onclick = function(){
+    modal.style.display = "block";
+    modalImg.src = this.src;
+    captionText.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() { 
+    modal.style.display = "none";
+}
+
+</script>
+
+
+
+
+
+		</body>
+</html>

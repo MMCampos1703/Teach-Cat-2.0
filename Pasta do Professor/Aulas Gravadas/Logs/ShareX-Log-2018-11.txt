@@ -1,0 +1,300 @@
+﻿2018-11-03 04:17:54.259 - ShareX 12.2 Portable
+2018-11-03 04:17:54.259 - Build: Release
+2018-11-03 04:17:54.259 - Command line: "G:\Projeto\Teach-Cat\Gravador\ShareX.exe" 
+2018-11-03 04:17:54.259 - Personal path: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas
+2018-11-03 04:17:54.259 - Operating system: Windows 10 Home Single Language
+2018-11-03 04:17:54.259 - Flags: Portable
+2018-11-03 04:17:54.275 - Temp files cleaned: C:\Users\Matheus_2\AppData\Local\Temp\ShareX
+2018-11-03 04:17:54.290 - ApplicationConfig load started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:17:54.290 - ApplicationConfig load started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json.bak
+2018-11-03 04:17:54.290 - ApplicationConfig not found. Loading new instance.
+2018-11-03 04:17:54.353 - MainForm init started.
+2018-11-03 04:17:54.431 - UploadersConfig load started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:17:54.431 - UploadersConfig load started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json.bak
+2018-11-03 04:17:54.431 - UploadersConfig not found. Loading new instance.
+2018-11-03 04:17:54.447 - HotkeysConfig load started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:17:54.447 - HotkeysConfig load started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json.bak
+2018-11-03 04:17:54.447 - HotkeysConfig not found. Loading new instance.
+2018-11-03 04:17:54.837 - MainForm init finished.
+2018-11-03 04:17:55.025 - Startup time: 817 ms
+2018-11-03 04:17:55.071 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capturar região, Job: RectangleRegion
+2018-11-03 04:17:55.071 - Hotkey registered: Hotkey: Print Screen, Description: Capturar a tela inteira, Job: PrintScreen
+2018-11-03 04:17:55.071 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capturar janela ativa, Job: ActiveWindow
+2018-11-03 04:17:55.071 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 04:17:55.071 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Gravar tela (GIF), Job: ScreenRecorderGIF
+2018-11-03 04:17:55.071 - HotkeyManager started.
+2018-11-03 04:17:55.087 - WatchFolderManager started.
+2018-11-03 04:18:04.307 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:18:04.307 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:18:04.307 - UploadersConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:18:04.479 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:18:04.557 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:18:04.588 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:18:06.457 - Executing: Capturar região
+2018-11-03 04:18:08.484 - Task in queue. Job: Job, Type: Image, Host: Imgur
+2018-11-03 04:18:08.484 - Task status: Preparing
+2018-11-03 04:18:08.593 - Image copied to clipboard.
+2018-11-03 04:18:09.080 - Image saved to file: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Screenshots\2018-11\explorer_2018-11-03_04-18-08.png
+2018-11-03 04:18:10.270 - Task status: Stopping
+2018-11-03 04:18:10.277 - Task stopped. Filename: explorer_2018-11-03_04-18-08.png
+2018-11-03 04:18:10.280 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:18:10.280 - UploadersConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:18:10.287 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:18:10.431 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:18:10.532 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:18:10.532 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:18:11.791 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:18:11.791 - UploadersConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:18:11.791 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:18:11.916 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:18:12.010 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:18:12.025 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:18:15.965 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 04:18:15.965 - Executing: Gravar tela
+2018-11-03 04:18:15.996 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 04:18:36.725 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 04:19:17.181 - ShareX 12.2 Portable
+2018-11-03 04:19:17.181 - Build: Release
+2018-11-03 04:19:17.181 - Command line: "G:\Projeto\Teach-Cat\Gravador\ShareX.exe" 
+2018-11-03 04:19:17.181 - Personal path: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas
+2018-11-03 04:19:17.181 - Operating system: Windows 10 Home Single Language
+2018-11-03 04:19:17.181 - Flags: Portable
+2018-11-03 04:19:17.197 - Temp files cleaned: C:\Users\Matheus_2\AppData\Local\Temp\ShareX
+2018-11-03 04:19:17.197 - ApplicationConfig load started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:19:17.665 - ApplicationConfig load finished: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:19:17.665 - UploadersConfig load started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:19:17.665 - MainForm init started.
+2018-11-03 04:19:17.775 - UploadersConfig load finished: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:19:17.775 - HotkeysConfig load started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:19:17.822 - HotkeysConfig load finished: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:19:18.056 - MainForm init finished.
+2018-11-03 04:19:18.211 - Startup time: 1069 ms
+2018-11-03 04:19:18.258 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capturar região, Job: RectangleRegion
+2018-11-03 04:19:18.258 - Hotkey registered: Hotkey: Print Screen, Description: Capturar a tela inteira, Job: PrintScreen
+2018-11-03 04:19:18.258 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capturar janela ativa, Job: ActiveWindow
+2018-11-03 04:19:18.258 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 04:19:18.258 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Gravar tela (GIF), Job: ScreenRecorderGIF
+2018-11-03 04:19:18.258 - HotkeyManager started.
+2018-11-03 04:19:18.258 - WatchFolderManager started.
+2018-11-03 04:19:22.323 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 04:19:23.978 - CLI: "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1920x1080 -draw_mouse 1 -i desktop -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Screenshots\2018-11\2018-11-03_04-19-23.mp4"
+2018-11-03 04:19:24.150 - Exception:
+System.ComponentModel.Win32Exception (0x80004005): O executável especificado não é um aplicativo válido para esta plataforma de SO.
+   em System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   em ShareX.HelpersLib.ExternalCLIManager.Open(String path, String args)
+   em ShareX.ScreenCaptureLib.FFmpegHelper.Run(String path, String args)
+   em ShareX.ScreenCaptureLib.ScreenRecorder.StartRecording()
+   em ShareX.ScreenRecordManager.<>c__DisplayClass9_0.<StartRecording>b__0()
+2018-11-03 04:19:27.743 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:19:27.743 - UploadersConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:19:27.743 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:19:27.915 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:19:28.008 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:19:28.008 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:19:30.809 - Hotkey unregistered: Hotkey: Ctrl + Print Screen, Description: Capturar região, Job: RectangleRegion
+2018-11-03 04:19:30.809 - Hotkey unregistered: Hotkey: Print Screen, Description: Capturar a tela inteira, Job: PrintScreen
+2018-11-03 04:19:30.809 - Hotkey unregistered: Hotkey: Alt + Print Screen, Description: Capturar janela ativa, Job: ActiveWindow
+2018-11-03 04:19:30.809 - Hotkey unregistered: Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 04:19:30.809 - Hotkey unregistered: Hotkey: Ctrl + Shift + Print Screen, Description: Gravar tela (GIF), Job: ScreenRecorderGIF
+2018-11-03 04:19:30.809 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:19:30.997 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:19:30.997 - UploadersConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:19:31.075 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:19:31.075 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:19:31.247 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:19:31.309 - ShareX closing.
+2018-11-03 04:19:33.996 - ShareX 12.2 Portable
+2018-11-03 04:19:33.996 - Build: Release
+2018-11-03 04:19:33.996 - Command line: "G:\Projeto\Teach-Cat\Gravador\ShareX.exe" 
+2018-11-03 04:19:33.996 - Personal path: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas
+2018-11-03 04:19:33.996 - Operating system: Windows 10 Home Single Language
+2018-11-03 04:19:33.996 - Flags: Portable
+2018-11-03 04:19:34.012 - ApplicationConfig load started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:19:34.480 - ApplicationConfig load finished: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:19:34.480 - UploadersConfig load started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:19:34.496 - MainForm init started.
+2018-11-03 04:19:34.605 - UploadersConfig load finished: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:19:34.605 - HotkeysConfig load started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:19:34.652 - HotkeysConfig load finished: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:19:34.902 - MainForm init finished.
+2018-11-03 04:19:35.058 - Startup time: 1098 ms
+2018-11-03 04:19:35.105 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capturar região, Job: RectangleRegion
+2018-11-03 04:19:35.105 - Hotkey registered: Hotkey: Print Screen, Description: Capturar a tela inteira, Job: PrintScreen
+2018-11-03 04:19:35.105 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capturar janela ativa, Job: ActiveWindow
+2018-11-03 04:19:35.105 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 04:19:35.105 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Gravar tela (GIF), Job: ScreenRecorderGIF
+2018-11-03 04:19:35.105 - HotkeyManager started.
+2018-11-03 04:19:35.105 - WatchFolderManager started.
+2018-11-03 04:19:52.275 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 04:19:52.290 - Executing: Gravar tela
+2018-11-03 04:19:52.290 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 04:19:53.759 - CLI: "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1920x1080 -draw_mouse 1 -i desktop -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Screenshots\2018-11\2018-11-03_04-19-53.mp4"
+2018-11-03 04:19:53.759 - Exception:
+System.ComponentModel.Win32Exception (0x80004005): O executável especificado não é um aplicativo válido para esta plataforma de SO.
+   em System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   em ShareX.HelpersLib.ExternalCLIManager.Open(String path, String args)
+   em ShareX.ScreenCaptureLib.FFmpegHelper.Run(String path, String args)
+   em ShareX.ScreenCaptureLib.ScreenRecorder.StartRecording()
+   em ShareX.ScreenRecordManager.<>c__DisplayClass9_0.<StartRecording>b__0()
+2018-11-03 04:20:20.222 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 04:20:20.222 - Executing: Gravar tela
+2018-11-03 04:20:20.222 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 04:20:24.345 - CLI: "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 75 -offset_y 102 -video_size 1844x898 -draw_mouse 1 -i desktop -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Screenshots\2018-11\2018-11-03_04-20-24.mp4"
+2018-11-03 04:20:24.345 - Exception:
+System.ComponentModel.Win32Exception (0x80004005): O executável especificado não é um aplicativo válido para esta plataforma de SO.
+   em System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   em ShareX.HelpersLib.ExternalCLIManager.Open(String path, String args)
+   em ShareX.ScreenCaptureLib.FFmpegHelper.Run(String path, String args)
+   em ShareX.ScreenCaptureLib.ScreenRecorder.StartRecording()
+   em ShareX.ScreenRecordManager.<>c__DisplayClass9_0.<StartRecording>b__0()
+2018-11-03 04:20:27.454 - Executing: Abrir janela principal
+2018-11-03 04:20:34.984 - Found program with first method: C:\WINDOWS\system32\mspaint.exe
+2018-11-03 04:20:37.827 - CLI: "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Tools\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2018-11-03 04:20:53.792 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:20:54.026 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:21:07.804 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:21:07.976 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:21:19.067 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:21:19.223 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:21:24.363 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 04:21:24.363 - Executing: Gravar tela
+2018-11-03 04:21:24.363 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 04:21:26.050 - CLI: "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1920x1080 -draw_mouse 1 -i desktop -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Screenshots\2018-11\1.mp4"
+2018-11-03 04:21:26.050 - Exception:
+System.ComponentModel.Win32Exception (0x80004005): O executável especificado não é um aplicativo válido para esta plataforma de SO.
+   em System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   em ShareX.HelpersLib.ExternalCLIManager.Open(String path, String args)
+   em ShareX.ScreenCaptureLib.FFmpegHelper.Run(String path, String args)
+   em ShareX.ScreenCaptureLib.ScreenRecorder.StartRecording()
+   em ShareX.ScreenRecordManager.<>c__DisplayClass9_0.<StartRecording>b__0()
+2018-11-03 04:21:28.987 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 04:21:28.987 - Executing: Gravar tela
+2018-11-03 04:21:28.987 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 04:21:30.517 - CLI: "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1920x1080 -draw_mouse 1 -i desktop -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Screenshots\2018-11\1.mp4"
+2018-11-03 04:21:30.517 - Exception:
+System.ComponentModel.Win32Exception (0x80004005): O executável especificado não é um aplicativo válido para esta plataforma de SO.
+   em System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   em ShareX.HelpersLib.ExternalCLIManager.Open(String path, String args)
+   em ShareX.ScreenCaptureLib.FFmpegHelper.Run(String path, String args)
+   em ShareX.ScreenCaptureLib.ScreenRecorder.StartRecording()
+   em ShareX.ScreenRecordManager.<>c__DisplayClass9_0.<StartRecording>b__0()
+2018-11-03 04:21:34.095 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:21:34.095 - UploadersConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:21:34.095 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:21:34.204 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:21:34.313 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:21:34.313 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:21:49.279 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:21:49.279 - UploadersConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:21:49.279 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:21:49.404 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:21:49.482 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:21:49.497 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:22:04.338 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 04:22:05.212 - CLI: "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 614 -offset_y 314 -video_size 780x322 -draw_mouse 1 -i desktop -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Screenshots\2018-11\1.mp4"
+2018-11-03 04:22:05.212 - Exception:
+System.ComponentModel.Win32Exception (0x80004005): O executável especificado não é um aplicativo válido para esta plataforma de SO.
+   em System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   em ShareX.HelpersLib.ExternalCLIManager.Open(String path, String args)
+   em ShareX.ScreenCaptureLib.FFmpegHelper.Run(String path, String args)
+   em ShareX.ScreenCaptureLib.ScreenRecorder.StartRecording()
+   em ShareX.ScreenRecordManager.<>c__DisplayClass9_0.<StartRecording>b__0()
+2018-11-03 04:22:14.226 - CLI: "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Tools\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2018-11-03 04:22:28.691 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:22:28.848 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:22:31.894 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 04:23:25.281 - CLI: "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1920x58 -draw_mouse 1 -i desktop -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Screenshots\2018-11\1.mp4"
+2018-11-03 04:23:30.014 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:23:30.014 - UploadersConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:23:30.014 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:23:30.124 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:23:30.233 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:23:30.233 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:23:35.982 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 04:23:35.982 - Executing: Gravar tela
+2018-11-03 04:23:35.982 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 04:23:37.731 - CLI: "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1920x1080 -draw_mouse 1 -i desktop -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Screenshots\2018-11\1.mp4"
+2018-11-03 04:28:17.032 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:28:17.220 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:28:19.532 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:28:19.703 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:28:39.694 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:28:39.882 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:30:03.481 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 04:30:03.481 - Executing: Gravar tela
+2018-11-03 04:30:08.652 - Task in queue. Job: Job, Type: File, Host: 
+2018-11-03 04:30:08.668 - Task status: Preparing
+2018-11-03 04:30:08.683 - Task completed. Filename: 1.mp4, Duration: 31 ms
+2018-11-03 04:30:08.714 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:30:08.714 - UploadersConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:30:08.714 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:30:08.824 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:30:09.074 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:30:09.074 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:31:58.861 - URL opened: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Screenshots\2018-11\1.mp4
+2018-11-03 04:32:13.556 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:32:13.712 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:32:14.274 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:32:14.274 - UploadersConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:32:14.274 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:32:14.399 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:32:14.493 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:32:14.509 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:35:07.149 - Hotkey triggered. Hotkey: Print Screen, Description: Capturar a tela inteira, Job: PrintScreen
+2018-11-03 04:35:07.149 - Executing: Capturar a tela inteira
+2018-11-03 04:35:07.208 - Task in queue. Job: Job, Type: Image, Host: 
+2018-11-03 04:35:07.210 - Task status: Preparing
+2018-11-03 04:35:07.269 - Image copied to clipboard.
+2018-11-03 04:35:07.397 - Image saved to file: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Screenshots\2018-11\1.png
+2018-11-03 04:35:07.397 - Task completed. Filename: 1.png, Duration: 187 ms
+2018-11-03 04:35:07.465 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:35:07.465 - UploadersConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:35:07.465 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:35:07.583 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:35:07.668 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:35:07.676 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:35:09.241 - URL opened: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Screenshots\2018-11\1.png
+2018-11-03 04:35:23.400 - Executing: Abrir janela principal
+2018-11-03 04:39:31.465 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 04:39:31.465 - Executing: Gravar tela
+2018-11-03 04:39:31.465 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 04:39:38.838 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:39:39.010 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:39:42.837 - CLI: "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Tools\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2018-11-03 04:39:47.352 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:39:47.523 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:39:52.397 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 04:39:53.756 - CLI: "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1920x1080 -draw_mouse 1 -i desktop -f dshow -i audio="Microfone (Realtek Audio)" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Screenshots\2018-11\1.mp4"
+2018-11-03 04:40:01.583 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 04:40:01.583 - Executing: Gravar tela
+2018-11-03 04:40:01.828 - Task in queue. Job: Job, Type: File, Host: 
+2018-11-03 04:40:01.828 - Task status: Preparing
+2018-11-03 04:40:01.828 - Task completed. Filename: 1.mp4, Duration: 0 ms
+2018-11-03 04:40:01.844 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:40:01.844 - UploadersConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:40:01.844 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:40:01.964 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:40:02.066 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:40:02.066 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:40:09.277 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 04:40:09.277 - Executing: Gravar tela
+2018-11-03 04:40:09.277 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 04:40:12.480 - CLI: "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1920x1080 -draw_mouse 1 -i desktop -f dshow -i audio="Microfone (Realtek Audio)" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Screenshots\2018-11\1.mp4"
+2018-11-03 04:42:54.287 - URL opened: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\Screenshots\2018-11\1.mp4
+2018-11-03 04:44:11.900 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 04:44:11.900 - Executing: Gravar tela
+2018-11-03 04:44:16.104 - Task in queue. Job: Job, Type: File, Host: 
+2018-11-03 04:44:16.119 - Task status: Preparing
+2018-11-03 04:44:16.119 - Task completed. Filename: 1.mp4, Duration: 15 ms
+2018-11-03 04:44:16.135 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:44:16.135 - UploadersConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:44:16.135 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:44:16.257 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:44:16.365 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:44:16.496 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:44:58.876 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json
+2018-11-03 04:44:58.876 - UploadersConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:44:58.876 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:44:58.985 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\UploadersConfig.json
+2018-11-03 04:44:59.110 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\HotkeysConfig.json
+2018-11-03 04:44:59.110 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Pasta do Professor\Aulas Gravadas\ApplicationConfig.json

@@ -1,0 +1,1532 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<title>Teach-Cat</title>
+		<link rel="stylesheet" type="text/css" href="estilo.css">
+		</head>
+	<body>
+		<button  id="defaultOpen" class="tablink" onclick="openPage('Principal', this, '#A4D3EE')" ><font color="white">Principal</font></button>
+		<button  class="tablink" onclick="openPage('Computador', this, '#A4D3EE')" ><font color="white">Computador</font></button> 
+		<button class="tablink" onclick="openPage('Internet', this, '#A4D3EE')"><font color="white">Internet</font></button>
+		<button class="tablink" onclick="openPage('Facaumpedido', this, '#A4D3EE')"><font color="white">Faça um Pedido</font></button>
+
+		<div id="Principal" class="tabcontent">			
+		  	<center>
+		  	<img src = "Principal.png">
+
+		<br>
+
+		<a href="tchome.html" onclick="window.open('http://www.google.com.br/');"><button class="buttonkat"><font size=5>Google</button ></a>
+
+		<a href="tchome.html" onclick="window.open('http://www.gmail.com.br/');"><button class="buttonkat"><font size=5>E-Mail</font></button></a>
+
+		<a href="tchome.html" onclick="window.open('http://www.Youtube.com.br/');"><button class="buttonkat"><font size=5 >Youtube</font></button></a>
+
+		<a href="tchome.html" onclick="window.open('http://www.Facebook.com.br/');"><button class="buttonkat"><font size=5 >Facebook</font></button></a>
+
+		<a href="tchome.html" onclick="window.open('http://www.g1.com.br/');"><button class="buttonkat"><font size=5>G1</font></button></a>
+		 </div>
+
+		<div id="Computador" class="tabcontent">
+		  <h1 class="kat-font">Computador</h1>
+		  <p>Selecione uma das aulas abaixo:</p>
+		  <a onclick="openPage('AulaC1', this, '#A4D3EE')"><font size=5 color"white"><button class="button"> 1 - Texto </button> </font></a>
+		  <a onclick="openPage('AulaC2', this, '#A4D3EE')"><font size=5 color"white"><button class="button"> 2 - Imagens </button> </font></a>
+		  <a onclick="openPage('AulaC3', this, '#A4D3EE')"><font size=5 color"white"><button class="button"> 3 - Arquivos </button> </font></a>
+		  <a onclick="openPage('AulaC4', this, '#A4D3EE')"><font size=5 color"white"><button class="button"> 4 - Configuraçoes </button> </font></a>
+		  <a onclick="openPage('AulaC5', this, '#A4D3EE')"><font size=5 color"white"><button class="button"> 5 - Dispositivos (Pendrive, Cd, Impressora) </button> </font></a>
+
+		  <br>
+
+		<p><font size=3 color"white">Não encontrou a aula que você precisava?</font>
+
+		<a onclick="openPage('Facaumpedido', this, '#A4D3EE')"><font size=3 color"blue"><button class="button29">Faça um pedido.</button></font></a>
+		</div>
+
+		<div id="Internet" class="tabcontent">
+		  <h1 class="kat-font">Internet</h1>
+		<p>Selecione uma das aulas abaixo:</p>
+
+		  <a onclick="openPage('AulaI1', this, '#A4D3EE')"><font size=5 color"white"><button class="button"> 1 - Pesquisa </button> </font></a>
+		  <a onclick="openPage('AulaI2', this, '#A4D3EE')"><font size=5 color"white"><button class="button"> 2 - E-mail </button> </font></a>
+		  <a onclick="openPage('AulaI3', this, '#A4D3EE')"><font size=5 color"white"><button class="button"> 3 - Videos </button> </font></a>
+		  <a onclick="openPage('AulaI4', this, '#A4D3EE')"><font size=5 color"white"><button class="button"> 4 - Facebook </button> </font></a>
+		  <a onclick="openPage('AulaI5', this, '#A4D3EE')"><font size=5 color"white"><button class="button"> 5 - Jornais </button> </font></a>
+
+		  <br>
+		  
+		<p><font size=3 color"white">Não encontrou a aula que você precisava?</font>
+		<a onclick="openPage('Facaumpedido', this, '#A4D3EE')"><font size=3 color"blue"><button class="button29">Faça um pedido.</button></font></a>
+		</div>
+
+		<div id="Facaumpedido" class="tabcontent">
+		 
+
+    <table>
+    	<h3 class="kat-font">Faça um Pedido</h1>
+        <tr>
+     	<p>Titulo da Aula:</p>
+        <input id="inputFileNameToSaveAs"></input>
+
+    <tr>
+      <p>Descreva a Duvida:
+    </tr>
+    <tr>
+      <td colspan="5">
+        <textarea id="inputTextToSave" style="width:512px;height:256px"></textarea>
+      </td>
+    </tr>
+        <td>
+        <button style="cursor:pointer;" onclick="saveTextAsFile()" >Salvar Pedido</button>
+      </td>
+    </tr>
+  </table>
+		</div> 
+
+
+
+		<div id="AulaC1" class="tabcontent">
+		  <h1 class="kat-font">Texto</h1>
+		  <p>Selecione um dos vídeos abaixo:</p>
+		  <body bgcolor="#1084A5">
+
+		<img id="myImg" src="aulas\aulasc\AulaC1.png" alt="aula1" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasc\AulaC1.png" height="100%" width="100%"> 
+					<source src="aulas\aulasc\AulaC1.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasc\AulaC2.png" alt=" aula2" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasc\AulaC2.png" height="100%" width="100%"> 
+					<source src="aulas\aulasc\AulaC2.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasc\AulaC3.png" alt=" aula3" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasc\AulaC3.png" height="100%" width="100%"> 
+					<source src="aulas\aulasc\AulaC3.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasc\AulaC4.png" alt=" aula4" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasc\AulaC4.png" height="100%" width="100%"> 
+					<source src="aulas\aulasc\AulaC4.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasc\AulaC5.png" alt=" aula5" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasc\AulaC5.png" height="100%" width="100%"> 
+					<source src="aulas\aulasc\AulaC5.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+		<img id="myImg" src="aulas\aulasc\AulaC6.png" alt=" aula6" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasc\AulaC6.png" height="100%" width="100%"> 
+					<source src="aulas\aulasc\AulaC6.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasc\AulaC7.png" alt=" aula7" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasc\AulaC7.png" height="100%" width="100%"> 
+					<source src="aulas\aulasc\AulaC7.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasc\AulaC8.png" alt=" aula8" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasc\AulaC8.png" height="100%" width="100%"> 
+					<source src="aulas\aulasc\AulaC8.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasc\AulaC9.png" alt=" aula9" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasc\AulaC9.png" height="100%" width="100%"> 
+					<source src="aulas\aulasc\AulaC9.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasc\AulaC10.png" alt=" aula10" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasc\AulaC10.png" height="100%" width="100%"> 
+					<source src="aulas\aulasc\AulaC10.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasc\AulaC11.png" alt=" aula11" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasc\AulaC11.png" height="100%" width="100%"> 
+					<source src="aulas\aulasc\AulaC11.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasc\AulaC12.png" alt=" aula12" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasc\AulaC12.png" height="100%" width="100%"> 
+					<source src="aulas\aulasc\AulaC12.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+
+		<p><font size=3 color"white">Não encontrou a aula que você precisava?</font>
+
+		<a onclick="openPage('Facaumpedido', this, '#A4D3EE')"><font size=3 color"blue"><button class="button29">Faça um pedido.</button></font></a>
+		</div>
+		</body>
+
+		<div id="AulaC2" class="tabcontent">
+		  <h1 class="kat-font">Imagens</h1>
+		  <p>Selecione um dos vídeos abaixo:</p>
+		  <body bgcolor="#1084A5">
+
+		<img id="myImg" src="aulas\aulasci\AulaCi1.png" alt="aulai1" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasci\AulaCi1.png" height="100%" width="100%"> 
+					<source src="aulas\aulasci\AulaCi1.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasci\AulaCi2.png" alt=" aulai2" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasci\AulaCi2.png" height="100%" width="100%"> 
+					<source src="aulas\aulasci\AulaCi2.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasci\AulaCi3.png" alt=" aulai3" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasci\AulaCi3.png" height="100%" width="100%"> 
+					<source src="aulas\aulasci\AulaCi3.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasci\AulaCi4.png" alt=" aulai4" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasci\AulaCi4.png" height="100%" width="100%"> 
+					<source src="aulas\aulasci\AulaCi4.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasci\AulaCi5.png" alt=" aulai5" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasci\AulaCi5.png" height="100%" width="100%"> 
+					<source src="aulas\aulasci\AulaCi5.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+		<img id="myImg" src="aulas\aulasci\AulaCi6.png" alt=" aula6i" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasci\AulaCi6.png" height="100%" width="100%"> 
+					<source src="aulas\aulasci\AulaCi6.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasci\AulaCi7.png" alt=" aulai7" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasci\AulaCi7.png" height="100%" width="100%"> 
+					<source src="aulas\aulasci\AulaCi7.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasci\AulaCi8.png" alt=" aulai8" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasci\AulaCi8.png" height="100%" width="100%"> 
+					<source src="aulas\aulasci\AulaCi8.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasci\AulaCi9.png" alt=" aulai9" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasci\AulaCi9.png" height="100%" width="100%"> 
+					<source src="aulas\aulasci\AulaCi9.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasci\AulaCi10.png" alt=" aulai10" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasci\AulaCi10.png" height="100%" width="100%"> 
+					<source src="aulas\aulasci\AulaCi10.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasci\AulaCi11.png" alt=" aulai11" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasci\AulaCi11.png" height="100%" width="100%"> 
+					<source src="aulas\aulasci\AulaCi11.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasci\AulaCi12.png" alt=" aulai12" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasci\AulaCi12.png" height="100%" width="100%"> 
+					<source src="aulas\aulasci\AulaCi12.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+				<p><font size=3 color"white">Não encontrou a aula que você precisava?</font>
+
+		<a onclick="openPage('Facaumpedido', this, '#A4D3EE')"><font size=3 color"blue"><button class="button29">Faça um pedido.</button></font></a>
+		</div>
+		</body>
+
+
+
+
+
+	
+		<div id="AulaC3" class="tabcontent">
+		  <h1 class="kat-font">Arquivos</h1>
+		  <p>Selecione um dos vídeos abaixo:</p>
+		  <body bgcolor="#1084A5">
+
+		<img id="myImg" src="aulas\aulasca\AulaCa1.png" alt="aulaa1" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasca\AulaCa1.png" height="100%" width="100%"> 
+					<source src="aulas\aulasca\AulaCa1.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasca\AulaCa2.png" alt=" aulaa2" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasca\AulaCa2.png" height="100%" width="100%"> 
+					<source src="aulas\aulasca\AulaCa2.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasca\AulaCa3.png" alt=" aulaa3" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasca\AulaCa3.png" height="100%" width="100%"> 
+					<source src="aulas\aulasca\AulaCa3.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasca\AulaCa4.png" alt=" aulaa4" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasca\AulaCa4.png" height="100%" width="100%"> 
+					<source src="aulas\aulasca\AulaCa4.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasca\AulaCa5.png" alt=" aulaa5" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasca\AulaCa5.png" height="100%" width="100%"> 
+					<source src="aulas\aulasca\AulaCa5.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+		<img id="myImg" src="aulas\aulasca\AulaCa6.png" alt=" aula6a" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasca\AulaCa6.png" height="100%" width="100%"> 
+					<source src="aulas\aulasca\AulaCa6.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasca\AulaCa7.png" alt=" aulaa7" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasca\AulaCa7.png" height="100%" width="100%"> 
+					<source src="aulas\aulasca\AulaCa7.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasca\AulaCa8.png" alt=" aulaa8" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasca\AulaCa8.png" height="100%" width="100%"> 
+					<source src="aulas\aulasca\AulaCa8.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasca\AulaCa9.png" alt=" aulaa9" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasca\AulaCa9.png" height="100%" width="100%"> 
+					<source src="aulas\aulasca\AulaCa9.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasca\AulaCa10.png" alt=" aulaa10" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasca\AulaCa10.png" height="100%" width="100%"> 
+					<source src="aulas\aulasca\AulaCa10.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasca\AulaCa11.png" alt=" aulaa11" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasca\AulaCa11.png" height="100%" width="100%"> 
+					<source src="aulas\aulasca\AulaCa11.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasca\AulaCa12.png" alt=" aulaa12" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasca\AulaCa12.png" height="100%" width="100%"> 
+					<source src="aulas\aulasca\AulaCa12.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+				<p><font size=3 color"white">Não encontrou a aula que você precisava?</font>
+
+		<a onclick="openPage('Facaumpedido', this, '#A4D3EE')"><font size=3 color"blue"><button class="button29">Faça um pedido.</button></font></a>
+		</div>
+		</body>
+
+
+
+
+
+
+	
+		<div id="AulaC4" class="tabcontent">
+		  <h1 class="kat-font">Configuraçoes</h1>
+		  <p>Selecione um dos vídeos abaixo:</p>
+		  <body bgcolor="#1084A5">
+
+		<img id="myImg" src="aulas\aulascc\AulaCc1.png" alt="aulac1" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascc\AulaCc1.png" height="100%" width="100%"> 
+					<source src="aulas\aulascc\AulaCc1.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulascc\AulaCc2.png" alt=" aulac2" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascc\AulaCc2.png" height="100%" width="100%"> 
+					<source src="aulas\aulascc\AulaCc2.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulascc\AulaCc3.png" alt=" aulac3" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascc\AulaCc3.png" height="100%" width="100%"> 
+					<source src="aulas\aulascc\AulaCc3.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulascc\AulaCc4.png" alt=" aulac4" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascc\AulaCc4.png" height="100%" width="100%"> 
+					<source src="aulas\aulascc\AulaCc4.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulascc\AulaCc5.png" alt=" aulac5" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascc\AulaCc5.png" height="100%" width="100%"> 
+					<source src="aulas\aulascc\AulaCc5.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+		<img id="myImg" src="aulas\aulascc\AulaCc6.png" alt=" aula6c" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascc\AulaCc6.png" height="100%" width="100%"> 
+					<source src="aulas\aulascc\AulaCc6.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulascc\AulaCc7.png" alt=" aulac7" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascc\AulaCc7.png" height="100%" width="100%"> 
+					<source src="aulas\aulascc\AulaCc7.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulascc\AulaCc8.png" alt=" aulac8" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascc\AulaCc8.png" height="100%" width="100%"> 
+					<source src="aulas\aulascc\AulaCc8.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulascc\AulaCc9.png" alt=" aulac9" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascc\AulaCc9.png" height="100%" width="100%"> 
+					<source src="aulas\aulascc\AulaCc9.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulascc\AulaCc10.png" alt=" aulac10" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascc\AulaCc10.png" height="100%" width="100%"> 
+					<source src="aulas\aulascc\AulaCc10.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulascc\AulaCc11.png" alt=" aulac11" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascc\AulaCc11.png" height="100%" width="100%"> 
+					<source src="aulas\aulascc\AulaCc11.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulascc\AulaCc12.png" alt=" aulac12" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascc\AulaCc12.png" height="100%" width="100%"> 
+					<source src="aulas\aulascc\AulaCc12.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+
+				<p><font size=3 color"white">Não encontrou a aula que você precisava?</font>
+
+		<a onclick="openPage('Facaumpedido', this, '#A4D3EE')"><font size=3 color"blue"><button class="button29">Faça um pedido.</button></font></a>
+		</div>
+		</body>
+
+
+	
+		<div id="AulaC5" class="tabcontent">
+		  <h1 class="kat-font">Dispositivos</h1>
+		  <p>Selecione um dos vídeos abaixo:</p>
+		  <body bgcolor="#1084A5">
+
+		<img id="myImg" src="aulas\aulascd\AulaCd1.png" alt="aulad1" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascd\AulaCd1.png" height="100%" width="100%"> 
+					<source src="aulas\aulascd\AulaCd1.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulascd\AulaCd2.png" alt=" aulad2" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascd\AulaCd2.png" height="100%" width="100%"> 
+					<source src="aulas\aulascd\AulaCd2.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulascd\AulaCd3.png" alt=" aulad3" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascd\AulaCd3.png" height="100%" width="100%"> 
+					<source src="aulas\aulascd\AulaCd3.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulascd\AulaCd4.png" alt=" aulad4" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascd\AulaCd4.png" height="100%" width="100%"> 
+					<source src="aulas\aulascd\AulaCd4.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulascd\AulaCd5.png" alt=" aulad5" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascd\AulaCd5.png" height="100%" width="100%"> 
+					<source src="aulas\aulascd\AulaCd5.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+		<img id="myImg" src="aulas\aulascd\AulaCd6.png" alt=" aula6d" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascd\AulaCd6.png" height="100%" width="100%"> 
+					<source src="aulas\aulascd\AulaCd6.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulascd\AulaCd7.png" alt=" aulad7" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascd\AulaCd7.png" height="100%" width="100%"> 
+					<source src="aulas\aulascd\AulaCd7.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulascd\AulaCd8.png" alt=" aulad8" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascd\AulaCd8.png" height="100%" width="100%"> 
+					<source src="aulas\aulascd\AulaCd8.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulascd\AulaCd9.png" alt=" aulad9" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascd\AulaCd9.png" height="100%" width="100%"> 
+					<source src="aulas\aulascd\AulaCd9.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulascd\AulaCd10.png" alt=" aulad10" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascd\AulaCd10.png" height="100%" width="100%"> 
+					<source src="aulas\aulascd\AulaCd10.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulascd\AulaCd11.png" alt=" aulad11" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascd\AulaCd11.png" height="100%" width="100%"> 
+					<source src="aulas\aulascd\AulaCd11.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulascd\AulaCd12.png" alt=" aulad12" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulascd\AulaCd12.png" height="100%" width="100%"> 
+					<source src="aulas\aulascd\AulaCd12.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+				<p><font size=3 color"white">Não encontrou a aula que você precisava?</font>
+
+		<a onclick="openPage('Facaumpedido', this, '#A4D3EE')"><font size=3 color"blue"><button class="button29">Faça um pedido.</button></font></a>
+		</div>
+		</body>
+
+
+
+
+
+
+	
+		<div id="AulaI1" class="tabcontent">
+		  <h1 class="kat-font">Pesquisa</h1>
+		  <p>Selecione um dos vídeos abaixo:</p>
+		  <body bgcolor="#1084A5">
+
+		<img id="myImg" src="aulas\aulasip\Aulaip1.png" alt="aulip1" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasc\Aulaip1.png" height="100%" width="100%"> 
+					<source src="aulas\aulasip\Aulaip1.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasip\Aulaip2.png" alt=" aulip2" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasip\Aulaip2.png" height="100%" width="100%"> 
+					<source src="aulas\aulasip\Aulaip2.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasip\Aulaip3.png" alt=" aulip3" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasip\Aulaip3.png" height="100%" width="100%"> 
+					<source src="aulas\aulasip\Aulaip3.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasip\Aulaip4.png" alt=" aulip4" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasip\Aulaip4.png" height="100%" width="100%"> 
+					<source src="aulas\aulasip\Aulaip4.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasip\Aulaip5.png" alt=" aulip5" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasip\Aulaip5.png" height="100%" width="100%"> 
+					<source src="aulas\aulasip\Aulaip5.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+		<img id="myImg" src="aulas\aulasip\Aulaip6.png" alt=" aulaip" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasip\Aulaip6.png" height="100%" width="100%"> 
+					<source src="aulas\aulasip\Aulaip6.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasip\Aulaip7.png" alt=" aulip7" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasip\Aulaip7.png" height="100%" width="100%"> 
+					<source src="aulas\aulasip\Aulaip7.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasip\Aulaip8.png" alt=" aulip8" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasip\Aulaip8.png" height="100%" width="100%"> 
+					<source src="aulas\aulasip\Aulaip8.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasip\Aulaip9.png" alt=" aulip9" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasip\Aulaip9.png" height="100%" width="100%"> 
+					<source src="aulas\aulasip\Aulaip9.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasip\Aulaip10.png" alt=" aulip10" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasip\Aulaip10.png" height="100%" width="100%"> 
+					<source src="aulas\aulasip\Aulaip10.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasip\Aulaip11.png" alt=" aulip11" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasip\Aulaip11.png" height="100%" width="100%"> 
+					<source src="aulas\aulasip\Aulaip11.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasip\Aulaip12.png" alt=" aulip12" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasip\Aulaip12.png" height="100%" width="100%"> 
+					<source src="aulas\aulasip\Aulaip12.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+				<p><font size=3 color"white">Não encontrou a aula que você precisava?</font>
+
+		<a onclick="openPage('Facaumpedido', this, '#A4D3EE')"><font size=3 color"blue"><button class="button29">Faça um pedido.</button></font></a>
+		</div>
+		</body>
+
+
+
+
+
+	
+		<div id="AulaI2" class="tabcontent">
+		  <h1 class="kat-font">E-mail</h1>
+		  <p>Selecione um dos vídeos abaixo:</p>
+		  <body bgcolor="#1084A5">
+
+		<img id="myImg" src="aulas\aulasem\Aulaem1.png" alt="aulem1" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasvid\Aulaem1.png" height="100%" width="100%"> 
+					<source src="aulas\aulasem\Aulaem1.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasem\Aulaem2.png" alt=" aulem2" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasem\Aulaem2.png" height="100%" width="100%"> 
+					<source src="aulas\aulasem\Aulaem2.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasem\Aulaem3.png" alt=" aulem3" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasem\Aulaem3.png" height="100%" width="100%"> 
+					<source src="aulas\aulasem\Aulaem3.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasem\Aulaem4.png" alt=" aulem4" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasem\Aulaem4.png" height="100%" width="100%"> 
+					<source src="aulas\aulasem\Aulaem4.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasem\Aulaem5.png" alt=" aulem5" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasem\Aulaem5.png" height="100%" width="100%"> 
+					<source src="aulas\aulasem\Aulaem5.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+		<img id="myImg" src="aulas\aulasem\Aulaem6.png" alt=" aulaem" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasem\Aulaem6.png" height="100%" width="100%"> 
+					<source src="aulas\aulasem\Aulaem6.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasem\Aulaem7.png" alt=" aulem7" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasem\Aulaem7.png" height="100%" width="100%"> 
+					<source src="aulas\aulasem\Aulaem7.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasem\Aulaem8.png" alt=" aulem8" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasem\Aulaem8.png" height="100%" width="100%"> 
+					<source src="aulas\aulasem\Aulaem8.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasem\Aulaem9.png" alt=" aulem9" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasem\Aulaem9.png" height="100%" width="100%"> 
+					<source src="aulas\aulasem\Aulaem9.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasem\Aulaem10.png" alt=" aulem10" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasem\Aulaem10.png" height="100%" width="100%"> 
+					<source src="aulas\aulasem\Aulaem10.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasem\Aulaem11.png" alt=" aulem11" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasem\Aulaem11.png" height="100%" width="100%"> 
+					<source src="aulas\aulasem\Aulaem11.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasem\Aulaem12.png" alt=" aulem12" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasem\Aulaem12.png" height="100%" width="100%"> 
+					<source src="aulas\aulasem\Aulaem12.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+				<p><font size=3 color"white">Não encontrou a aula que você precisava?</font>
+
+		<a onclick="openPage('Facaumpedido', this, '#A4D3EE')"><font size=3 color"blue"><button class="button29">Faça um pedido.</button></font></a>
+		</div>
+		</body>
+
+
+
+
+
+	
+		<div id="AulaI3" class="tabcontent">
+		  <h1 class="kat-font">Videos</h1>
+		  <p>Selecione um dos vídeos abaixo:</p>
+		  <body bgcolor="#1084A5">
+
+		<img id="myImg" src="aulas\aulasvid\Aulavid1.png" alt="aulvid1" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasvid\Aulavid1.png" height="100%" width="100%"> 
+					<source src="aulas\aulasvid\Aulavid1.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasvid\Aulavid2.png" alt=" aulvid2" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasvid\Aulavid2.png" height="100%" width="100%"> 
+					<source src="aulas\aulasvid\Aulavid2.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasvid\Aulavid3.png" alt=" aulvid3" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasvid\Aulavid3.png" height="100%" width="100%"> 
+					<source src="aulas\aulasvid\Aulavid3.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasvid\Aulavid4.png" alt=" aulvid4" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasvid\Aulavid4.png" height="100%" width="100%"> 
+					<source src="aulas\aulasvid\Aulavid4.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasvid\Aulavid5.png" alt=" aulvid5" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasvid\Aulavid5.png" height="100%" width="100%"> 
+					<source src="aulas\aulasvid\Aulavid5.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+		<img id="myImg" src="aulas\aulasvid\Aulavid6.png" alt=" aulavid" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasvid\Aulavid6.png" height="100%" width="100%"> 
+					<source src="aulas\aulasvid\Aulavid6.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasvid\Aulavid7.png" alt=" aulvid7" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasvid\Aulavid7.png" height="100%" width="100%"> 
+					<source src="aulas\aulasvid\Aulavid7.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasvid\Aulavid8.png" alt=" aulvid8" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasvid\Aulavid8.png" height="100%" width="100%"> 
+					<source src="aulas\aulasvid\Aulavid8.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasvid\Aulavid9.png" alt=" aulvid9" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasvid\Aulavid9.png" height="100%" width="100%"> 
+					<source src="aulas\aulasvid\Aulavid9.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasvid\Aulavid10.png" alt=" aulvid10" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasvid\Aulavid10.png" height="100%" width="100%"> 
+					<source src="aulas\aulasvid\Aulavid10.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasvid\Aulavid11.png" alt=" aulvid11" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasvid\Aulavid11.png" height="100%" width="100%"> 
+					<source src="aulas\aulasvid\Aulavid11.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasvid\Aulavid12.png" alt=" aulvid12" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasvid\Aulavid12.png" height="100%" width="100%"> 
+					<source src="aulas\aulasvid\Aulavid12.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+				<p><font size=3 color"white">Não encontrou a aula que você precisava?</font>
+
+		<a onclick="openPage('Facaumpedido', this, '#A4D3EE')"><font size=3 color"blue"><button class="button29">Faça um pedido.</button></font></a>
+		</div>
+		</body>
+
+
+		<div id="AulaI4" class="tabcontent">
+		  <h1 class="kat-font">Facebook</h1>
+		  <p>Selecione um dos vídeos abaixo:</p>
+		  <body bgcolor="#1084A5">
+
+		<img id="myImg" src="aulas\aulasface\Aulaface1.png" alt="aulface1" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasface\Aulaface1.png" height="100%" width="100%"> 
+					<source src="aulas\aulasface\Aulaface1.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasface\Aulaface2.png" alt=" aulface2" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasface\Aulaface2.png" height="100%" width="100%"> 
+					<source src="aulas\aulasface\Aulaface2.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasface\Aulaface3.png" alt=" aulface3" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasface\Aulaface3.png" height="100%" width="100%"> 
+					<source src="aulas\aulasface\Aulaface3.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasface\Aulaface4.png" alt=" aulface4" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasface\Aulaface4.png" height="100%" width="100%"> 
+					<source src="aulas\aulasface\Aulaface4.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasface\Aulaface5.png" alt=" aulface5" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasface\Aulaface5.png" height="100%" width="100%"> 
+					<source src="aulas\aulasface\Aulaface5.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+		<img id="myImg" src="aulas\aulasface\Aulaface6.png" alt=" aulaface" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasface\Aulaface6.png" height="100%" width="100%"> 
+					<source src="aulas\aulasface\Aulaface6.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasface\Aulaface7.png" alt=" aulface7" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasface\Aulaface7.png" height="100%" width="100%"> 
+					<source src="aulas\aulasface\Aulaface7.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasface\Aulaface8.png" alt=" aulface8" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasface\Aulaface8.png" height="100%" width="100%"> 
+					<source src="aulas\aulasface\Aulaface8.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasface\Aulaface9.png" alt=" aulface9" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasface\Aulaface9.png" height="100%" width="100%"> 
+					<source src="aulas\aulasface\Aulaface9.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasface\Aulaface10.png" alt=" aulface10" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasface\Aulaface10.png" height="100%" width="100%"> 
+					<source src="aulas\aulasface\Aulaface10.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasface\Aulaface11.png" alt=" aulface11" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasface\Aulaface11.png" height="100%" width="100%"> 
+					<source src="aulas\aulasface\Aulaface11.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasface\Aulaface12.png" alt=" aulface12" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasface\Aulaface12.png" height="100%" width="100%"> 
+					<source src="aulas\aulasface\Aulaface12.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+				<p><font size=3 color"white">Não encontrou a aula que você precisava?</font>
+
+		<a onclick="openPage('Facaumpedido', this, '#A4D3EE')"><font size=3 color"blue"><button class="button29">Faça um pedido.</button></font></a>
+		</div>
+		</body>
+
+
+
+	
+		<div id="AulaI5" class="tabcontent">
+		  <h1 class="kat-font">Jornais</h1>
+		  <p>Selecione um dos vídeos abaixo:</p>
+		  <body bgcolor="#1084A5">
+
+		<img id="myImg" src="aulas\aulasjor\Aulajor1.png" alt="auljor1" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasjor\Aulajor1.png" height="100%" width="100%"> 
+					<source src="aulas\aulasjor\Aulajor1.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasjor\Aulajor2.png" alt=" auljor2" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasjor\Aulajor2.png" height="100%" width="100%"> 
+					<source src="aulas\aulasjor\Aulajor2.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasjor\Aulajor3.png" alt=" auljor3" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasjor\Aulajor3.png" height="100%" width="100%"> 
+					<source src="aulas\aulasjor\Aulajor3.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasjor\Aulajor4.png" alt=" auljor4" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasjor\Aulajor4.png" height="100%" width="100%"> 
+					<source src="aulas\aulasjor\Aulajor4.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasjor\Aulajor5.png" alt=" auljor5" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasjor\Aulajor5.png" height="100%" width="100%"> 
+					<source src="aulas\aulasjor\Aulajor5.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+		<img id="myImg" src="aulas\aulasjor\Aulajor6.png" alt=" aulajor" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasjor\Aulajor6.png" height="100%" width="100%"> 
+					<source src="aulas\aulasjor\Aulajor6.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasjor\Aulajor7.png" alt=" auljor7" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasjor\Aulajor7.png" height="100%" width="100%"> 
+					<source src="aulas\aulasjor\Aulajor7.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasjor\Aulajor8.png" alt=" auljor8" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasjor\Aulajor8.png" height="100%" width="100%"> 
+					<source src="aulas\aulasjor\Aulajor8.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasjor\Aulajor9.png" alt=" auljor9" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasjor\Aulajor9.png" height="100%" width="100%"> 
+					<source src="aulas\aulasjor\Aulajor9.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasjor\Aulajor10.png" alt=" auljor10" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasjor\Aulajor10.png" height="100%" width="100%"> 
+					<source src="aulas\aulasjor\Aulajor10.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasjor\Aulajor11.png" alt=" auljor11" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasjor\Aulajor11.png" height="100%" width="100%"> 
+					<source src="aulas\aulasjor\Aulajor11.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+
+		<img id="myImg" src="aulas\aulasjor\Aulajor12.png" alt=" auljor12" style="width:100%;max-width:300px">
+
+		<div id="myModal" class="modal">
+		  <span class="close">&times;</span>
+				 <video controls = "controls" preload="auto" poster="aulas\aulasjor\Aulajor12.png" height="100%" width="100%"> 
+					<source src="aulas\aulasjor\Aulajor12.mp4" type="video/mp4"></video>
+		  <div id="caption"></div>
+		</div>  
+
+				<p><font size=3 color"white">Não encontrou a aula que você precisava?</font>
+
+		<a onclick="openPage('Facaumpedido', this, '#A4D3EE')"><font size=3 color"blue"><button class="button29">Faça um pedido.</button></font></a>
+		</div>
+		</body>
+
+
+
+
+
+		
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	var modal = document.getElementById('myModal');
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById('myImg');
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+img.onclick = function(){
+    modal.style.display = "block";
+    modalImg.src = this.src;
+    captionText.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() { 
+    modal.style.display = "none";
+}
+
+</script>
+
+<script>
+			function openPage(pageName, elmnt, color) {
+			    // Hide all elements with class="tabcontent" by default */
+			    var i, tabcontent, tablinks;
+			    tabcontent = document.getElementsByClassName("tabcontent");
+			    for (i = 0; i < tabcontent.length; i++) {
+			        tabcontent[i].style.display = "none";
+			    }
+
+			    // Remove the background color of all tablinks/buttons
+			    tablinks = document.getElementsByClassName("tablink");
+			    for (i = 0; i < tablinks.length; i++) {
+			        tablinks[i].style.backgroundColor = "";
+			    }
+
+			    // Show the specific tab content
+			    document.getElementById(pageName).style.display = "block";
+
+			    // Add the specific color to the button used to open the tab content
+			    elmnt.style.backgroundColor = color;
+			}
+
+			// Get the element with id="defaultOpen" and click on it
+			document.getElementById("defaultOpen").click(); 
+		</script>
+
+<script>
+function msg() {
+    alert("Pedido salvo, irei preparar uma aula assim que puder, abraços!");
+}
+</script>
+
+<script>
+    function saveTextAsFile() {
+  var textToWrite = document.getElementById("inputTextToSave").value;
+  var textFileAsBlob = new Blob([textToWrite], {
+    type: 'text/plain'
+  });
+
+  var fileNameToSaveAs = document.getElementById("inputFileNameToSaveAs").value;
+
+  var downloadLink = document.createElement("a");
+  downloadLink.download = fileNameToSaveAs;
+  downloadLink.innerHTML = "Download File";
+  if (window.webkitURL != null) {
+    // Chrome allows the link to be clicked
+    // without actually adding it to the DOM.
+    downloadLink.href = window.webkitURL.createObjectURL(textFileAsBlob);
+    msg();
+  } else {
+    // Firefox requires the link to be added to the DOM
+    // before it can be clicked.
+    downloadLink.href = window.URL.createObjectURL(textFileAsBlob);
+    downloadLink.onclick = destroyClickedElement;
+    downloadLink.style.display = "none";
+    document.body.appendChild(downloadLink);
+  }
+
+  downloadLink.click();
+}
+
+  </script>
+

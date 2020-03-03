@@ -1,0 +1,276 @@
+﻿2018-11-03 03:00:59.026 - ShareX 12.2 Portable
+2018-11-03 03:00:59.026 - Build: Release
+2018-11-03 03:00:59.026 - Command line: "G:\Projeto\Teach-Cat\Gravador\ShareX.exe" 
+2018-11-03 03:00:59.026 - Personal path: G:\Projeto\Teach-Cat\Gravador\ShareX
+2018-11-03 03:00:59.026 - Operating system: Windows 10 Home Single Language
+2018-11-03 03:00:59.041 - Flags: Portable
+2018-11-03 03:00:59.088 - ApplicationConfig load started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:00:59.088 - ApplicationConfig load started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json.bak
+2018-11-03 03:00:59.088 - ApplicationConfig not found. Loading new instance.
+2018-11-03 03:00:59.276 - UploadersConfig load started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:00:59.276 - UploadersConfig load started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json.bak
+2018-11-03 03:00:59.276 - UploadersConfig not found. Loading new instance.
+2018-11-03 03:00:59.276 - MainForm init started.
+2018-11-03 03:00:59.307 - HotkeysConfig load started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:00:59.307 - HotkeysConfig load started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json.bak
+2018-11-03 03:00:59.307 - HotkeysConfig not found. Loading new instance.
+2018-11-03 03:00:59.760 - MainForm init finished.
+2018-11-03 03:00:59.979 - Startup time: 1116 ms
+2018-11-03 03:01:00.026 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capturar região, Job: RectangleRegion
+2018-11-03 03:01:00.026 - Hotkey registered: Hotkey: Print Screen, Description: Capturar a tela inteira, Job: PrintScreen
+2018-11-03 03:01:00.026 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capturar janela ativa, Job: ActiveWindow
+2018-11-03 03:01:00.026 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 03:01:00.026 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Gravar tela (GIF), Job: ScreenRecorderGIF
+2018-11-03 03:01:00.026 - HotkeyManager started.
+2018-11-03 03:01:00.026 - WatchFolderManager started.
+2018-11-03 03:01:07.852 - Task in queue. Job: Job, Type: Image, Host: Imgur
+2018-11-03 03:01:07.867 - Task status: Preparing
+2018-11-03 03:01:07.930 - Image copied to clipboard.
+2018-11-03 03:01:08.055 - Image saved to file: G:\Projeto\Teach-Cat\Gravador\ShareX\Screenshots\2018-11\2018-11-03_03-01-07.png
+2018-11-03 03:01:09.496 - Task status: Stopping
+2018-11-03 03:01:09.538 - Task stopped. Filename: 2018-11-03_03-01-07.png
+2018-11-03 03:01:09.546 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:01:09.549 - UploadersConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:01:09.549 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:01:09.709 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:01:09.779 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:01:09.809 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:01:23.044 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 03:28:32.952 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 03:31:09.263 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:31:09.263 - UploadersConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:31:09.263 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:31:09.405 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:31:09.510 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:31:09.513 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:31:28.749 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:31:28.749 - UploadersConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:31:28.749 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:31:28.874 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:31:28.988 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:31:28.988 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:31:45.034 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 03:31:47.746 - CLI: "G:\Projeto\Teach-Cat\Gravador\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1920x58 -draw_mouse 1 -i desktop -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart "G:\Projeto\Teach-Cat\Gravador\ShareX\Screenshots\2018-11\2018-11-03_03-31-47.mp4"
+2018-11-03 03:31:51.879 - Task in queue. Job: Job, Type: File, Host: 
+2018-11-03 03:31:51.895 - Task status: Preparing
+2018-11-03 03:31:51.895 - Task completed. Filename: 2018-11-03_03-31-47.mp4, Duration: 15 ms
+2018-11-03 03:31:51.915 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:31:51.915 - UploadersConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:31:51.915 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:31:52.040 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:31:52.165 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:31:52.165 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:32:17.801 - Found program with first method: C:\WINDOWS\system32\mspaint.exe
+2018-11-03 03:32:32.094 - CLI: "G:\Projeto\Teach-Cat\Gravador\ShareX\Tools\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2018-11-03 03:33:37.864 - CLI: "G:\Projeto\Teach-Cat\Gravador\ShareX\Tools\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2018-11-03 03:35:10.462 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:35:10.633 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:35:21.638 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 03:35:23.772 - CLI: "G:\Projeto\Teach-Cat\Gravador\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1920x1080 -draw_mouse 1 -i desktop -f dshow -i audio="Microfone (Realtek Audio)" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "G:\Projeto\Teach-Cat\Gravador\ShareX\Screenshots\2018-11\.mp4"
+2018-11-03 03:35:34.076 - Task in queue. Job: Job, Type: File, Host: 
+2018-11-03 03:35:34.076 - Task status: Preparing
+2018-11-03 03:35:34.076 - Task completed. Filename: .mp4, Duration: 0 ms
+2018-11-03 03:35:34.107 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:35:34.107 - UploadersConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:35:34.107 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:35:34.232 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:35:34.321 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:35:34.321 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:35:49.915 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 03:35:49.916 - Executing: Gravar tela
+2018-11-03 03:35:49.916 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 03:36:05.162 - CLI: "G:\Projeto\Teach-Cat\Gravador\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1920x1080 -draw_mouse 1 -i desktop -f dshow -i audio="Microfone (Realtek Audio)" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "G:\Projeto\Teach-Cat\Gravador\ShareX\Screenshots\2018-11\.mp4"
+2018-11-03 03:36:20.798 - Task in queue. Job: Job, Type: File, Host: 
+2018-11-03 03:36:20.810 - Task status: Preparing
+2018-11-03 03:36:20.810 - Task completed. Filename: .mp4, Duration: 12 ms
+2018-11-03 03:36:20.835 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:36:20.835 - UploadersConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:36:20.835 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:36:20.958 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:36:21.048 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:36:21.058 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:36:23.953 - URL opened: G:\Projeto\Teach-Cat\Gravador\ShareX\Screenshots\2018-11\.mp4
+2018-11-03 03:37:19.100 - CLI: "G:\Projeto\Teach-Cat\Gravador\ShareX\Tools\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2018-11-03 03:38:41.678 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:38:41.850 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:39:30.973 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:39:31.140 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:39:33.444 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:39:33.444 - UploadersConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:39:33.444 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:39:33.553 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:39:33.663 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:39:33.663 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:40:09.339 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:40:09.339 - UploadersConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:40:09.339 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:40:09.464 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:40:09.683 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:40:09.699 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:40:17.822 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 03:40:17.822 - Executing: Gravar tela
+2018-11-03 03:40:17.822 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 03:40:20.025 - CLI: "G:\Projeto\Teach-Cat\Gravador\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1920x1080 -draw_mouse 1 -i desktop -f dshow -i audio="Microfone (Realtek Audio)" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "G:\Projeto\Teach-Cat\Gravador\ShareX\Screenshots\1.mp4"
+2018-11-03 03:40:54.188 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 03:40:54.188 - Executing: Gravar tela
+2018-11-03 03:40:54.741 - Task in queue. Job: Job, Type: File, Host: 
+2018-11-03 03:40:54.756 - Task status: Preparing
+2018-11-03 03:40:54.756 - Task completed. Filename: 1.mp4, Duration: 15 ms
+2018-11-03 03:40:54.774 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:40:54.789 - UploadersConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:40:54.789 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:40:58.195 - Executing: Abrir janela principal
+2018-11-03 03:40:58.867 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:40:59.038 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:40:59.070 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:40:59.288 - URL opened: G:\Projeto\Teach-Cat\Gravador\ShareX\Screenshots\1.mp4
+2018-11-03 03:41:25.895 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 03:41:27.239 - CLI: "G:\Projeto\Teach-Cat\Gravador\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1920x1080 -draw_mouse 1 -i desktop -f dshow -i audio="Microfone (Realtek Audio)" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "G:\Projeto\Teach-Cat\Gravador\ShareX\Screenshots\2.mp4"
+2018-11-03 03:41:34.880 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 03:41:34.880 - Executing: Gravar tela
+2018-11-03 03:41:35.294 - Task in queue. Job: Job, Type: File, Host: 
+2018-11-03 03:41:35.310 - Task status: Preparing
+2018-11-03 03:41:35.310 - Task completed. Filename: 2.mp4, Duration: 15 ms
+2018-11-03 03:41:35.326 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:41:35.326 - UploadersConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:41:35.326 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:41:35.435 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:41:35.567 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:41:35.567 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:41:52.099 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:41:52.099 - UploadersConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:41:52.099 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:41:52.209 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:41:52.318 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:41:52.318 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:42:10.158 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 03:42:10.158 - Executing: Gravar tela
+2018-11-03 03:42:10.173 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 03:42:13.735 - CLI: "G:\Projeto\Teach-Cat\Gravador\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1920x1080 -draw_mouse 1 -i desktop -f dshow -i audio="Microfone (Realtek Audio)" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "G:\Projeto\Teach-Cat\Gravador\ShareX\Screenshots\3.mp4"
+2018-11-03 03:42:57.608 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 03:42:57.608 - Executing: Gravar tela
+2018-11-03 03:42:57.969 - Task in queue. Job: Job, Type: File, Host: 
+2018-11-03 03:42:57.985 - Task status: Preparing
+2018-11-03 03:42:57.985 - Task completed. Filename: 3.mp4, Duration: 15 ms
+2018-11-03 03:42:58.000 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:42:58.000 - UploadersConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:42:58.000 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:42:58.156 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:42:58.279 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:42:58.279 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:42:59.629 - URL opened: G:\Projeto\Teach-Cat\Gravador\ShareX\Screenshots\3.mp4
+2018-11-03 03:43:19.651 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 03:43:19.651 - Executing: Gravar tela
+2018-11-03 03:43:19.651 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 03:43:20.901 - CLI: "G:\Projeto\Teach-Cat\Gravador\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1920x1080 -draw_mouse 1 -i desktop -f dshow -i audio="Microfone (Realtek Audio)" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "G:\Projeto\Teach-Cat\Gravador\ShareX\Screenshots\4.mp4"
+2018-11-03 03:44:23.791 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 03:44:23.791 - Executing: Gravar tela
+2018-11-03 03:44:24.441 - Task in queue. Job: Job, Type: File, Host: 
+2018-11-03 03:44:24.457 - Task status: Preparing
+2018-11-03 03:44:24.457 - Task completed. Filename: 4.mp4, Duration: 15 ms
+2018-11-03 03:44:24.472 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:44:24.472 - UploadersConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:44:24.472 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:44:24.613 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:44:24.720 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:44:24.730 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:44:26.731 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 03:44:26.731 - Executing: Gravar tela
+2018-11-03 03:44:26.731 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 03:44:30.917 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 03:44:30.917 - Executing: Gravar tela
+2018-11-03 03:44:30.917 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 03:44:32.197 - CLI: "G:\Projeto\Teach-Cat\Gravador\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1920x1080 -draw_mouse 1 -i desktop -f dshow -i audio="Microfone (Realtek Audio)" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "G:\Projeto\Teach-Cat\Gravador\ShareX\Screenshots\5.mp4"
+2018-11-03 03:46:15.874 - Hotkey triggered. Hotkey: Ctrl + Shift + Print Screen, Description: Gravar tela (GIF), Job: ScreenRecorderGIF
+2018-11-03 03:46:15.874 - Executing: Gravar tela (GIF)
+2018-11-03 03:46:16.732 - Task in queue. Job: Job, Type: File, Host: 
+2018-11-03 03:46:16.748 - Task status: Preparing
+2018-11-03 03:46:16.748 - Task completed. Filename: 5.mp4, Duration: 0 ms
+2018-11-03 03:46:16.762 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:46:16.762 - UploadersConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:46:16.762 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:46:16.903 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:46:16.988 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:46:17.009 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:46:26.123 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 03:46:26.123 - Executing: Gravar tela
+2018-11-03 03:46:26.123 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 03:46:27.622 - CLI: "G:\Projeto\Teach-Cat\Gravador\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1920x1080 -draw_mouse 1 -i desktop -f dshow -i audio="Microfone (Realtek Audio)" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "G:\Projeto\Teach-Cat\Gravador\ShareX\Screenshots\6.mp4"
+2018-11-03 03:46:31.882 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 03:46:31.882 - Executing: Gravar tela
+2018-11-03 03:46:32.155 - Task in queue. Job: Job, Type: File, Host: 
+2018-11-03 03:46:32.171 - Task status: Preparing
+2018-11-03 03:46:32.171 - Task completed. Filename: 6.mp4, Duration: 15 ms
+2018-11-03 03:46:32.194 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:46:32.194 - UploadersConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:46:32.194 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:46:32.303 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:46:32.419 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:46:32.419 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:46:42.077 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 03:46:42.077 - Executing: Gravar tela
+2018-11-03 03:46:42.077 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 03:46:43.670 - CLI: "G:\Projeto\Teach-Cat\Gravador\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1920x1080 -draw_mouse 1 -i desktop -f dshow -i audio="Microfone (Realtek Audio)" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "G:\Projeto\Teach-Cat\Gravador\ShareX\Screenshots\7.mp4"
+2018-11-03 03:47:50.339 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 03:47:50.339 - Executing: Gravar tela
+2018-11-03 03:47:51.048 - Task in queue. Job: Job, Type: File, Host: 
+2018-11-03 03:47:51.064 - Task status: Preparing
+2018-11-03 03:47:51.064 - Task completed. Filename: 7.mp4, Duration: 15 ms
+2018-11-03 03:47:51.080 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:47:51.080 - UploadersConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:47:51.080 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:47:51.205 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 03:47:51.324 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 03:47:51.324 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 03:47:58.145 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 03:47:58.145 - Executing: Gravar tela
+2018-11-03 03:47:58.145 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2018-11-03 03:47:59.644 - CLI: "G:\Projeto\Teach-Cat\Gravador\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 100M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1920x1080 -draw_mouse 1 -i desktop -f dshow -i audio="Microfone (Realtek Audio)" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "G:\Projeto\Teach-Cat\Gravador\ShareX\Screenshots\8.mp4"
+2018-11-03 04:06:19.308 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 04:06:19.308 - Executing: Gravar tela
+2018-11-03 04:06:28.967 - Hotkey triggered. Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 04:06:28.967 - Executing: Gravar tela
+2018-11-03 04:06:28.994 - Unhandled exception:
+System.ComponentModel.Win32Exception (0x80004005): Acesso negado
+   em System.Diagnostics.Process.Kill()
+   em ShareX.ScreenRecordManager.StopRecording()
+   em ShareX.ScreenRecordForm.OnStopRequested()
+   em ShareX.TaskHelpers.ExecuteJob(TaskSettings taskSettings, HotkeyType job, CLICommand command)
+   em ShareX.MainForm.HandleHotkeys(HotkeySettings hotkeySetting)
+   em ShareX.HotkeyManager.OnHotkeyTrigger(HotkeySettings hotkeySetting)
+   em ShareX.HotkeyManager.hotkeyForm_HotkeyPress(UInt16 id, Keys key, Modifiers modifier)
+   em ShareX.HelpersLib.HotkeyForm.OnKeyPressed(UInt16 id, Keys key, Modifiers modifier)
+   em ShareX.HelpersLib.HotkeyForm.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+ShareX 12.2 Portable (Release)
+2018-11-03 04:06:48.992 - ShareX continue.
+2018-11-03 04:06:51.866 - Task in queue. Job: Job, Type: File, Host: 
+2018-11-03 04:06:51.897 - Task status: Preparing
+2018-11-03 04:06:51.897 - Task completed. Filename: 8.mp4, Duration: 31 ms
+2018-11-03 04:06:51.913 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 04:06:51.913 - UploadersConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 04:06:51.913 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 04:06:52.053 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 04:06:52.163 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 04:06:52.178 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 04:06:53.946 - URL opened: G:\Projeto\Teach-Cat\Gravador\ShareX\Screenshots\8.mp4
+2018-11-03 04:07:16.929 - Executing: Abrir janela principal
+2018-11-03 04:08:01.153 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 04:08:01.153 - UploadersConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 04:08:01.153 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 04:08:01.262 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 04:08:01.371 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 04:08:01.371 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 04:13:43.184 - Hotkey unregistered: Hotkey: Ctrl + Print Screen, Description: Capturar região, Job: RectangleRegion
+2018-11-03 04:13:43.184 - Hotkey unregistered: Hotkey: Print Screen, Description: Capturar a tela inteira, Job: PrintScreen
+2018-11-03 04:13:43.184 - Hotkey unregistered: Hotkey: Alt + Print Screen, Description: Capturar janela ativa, Job: ActiveWindow
+2018-11-03 04:13:43.184 - Hotkey unregistered: Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2018-11-03 04:13:43.184 - Hotkey unregistered: Hotkey: Ctrl + Shift + Print Screen, Description: Gravar tela (GIF), Job: ScreenRecorderGIF
+2018-11-03 04:13:43.228 - ApplicationConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 04:13:43.400 - ApplicationConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\ApplicationConfig.json
+2018-11-03 04:13:43.400 - UploadersConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 04:13:43.478 - UploadersConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\UploadersConfig.json
+2018-11-03 04:13:43.478 - HotkeysConfig save started: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 04:13:43.640 - HotkeysConfig save successful: G:\Projeto\Teach-Cat\Gravador\ShareX\HotkeysConfig.json
+2018-11-03 04:13:43.703 - ShareX closing.
